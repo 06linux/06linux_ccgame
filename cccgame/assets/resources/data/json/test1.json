@@ -1,0 +1,46 @@
+{
+    "desc": "全局配置参数",
+    "game_is_review": true,
+    "game_jump_app_list": [
+        "wx0ee0dd280dc5bb68",
+        "wx6427f4065136b5ac",
+        "wxb12145e102b5968a",
+        "wx479eb0793ece94b9",
+        "wx8f8cd89e436863d8",
+        "wx17b9d0f62ae5cf32",
+        "wx7136a9d74b2242c9",
+        "wx3829760cd377dfa9",
+        "wx039e2b3405770f21"
+    ],
+    "game_jump_data_def": {
+        "appid": "xxxx",
+        "appid_skip": null,
+        "extData": null,
+        "name": "xxxx",
+        "name_skip": null,
+        "path": "xxxx"
+    },
+    "game_jump_data_ios": {
+        "appid": "xxxx",
+        "appid_skip": null,
+        "extData": null,
+        "name": "xxxx",
+        "name_skip": null,
+        "path": "xxxx"
+    },
+    "game_jump_is_open": "定向跳转开关",
+    "game_jump_is_open_def": false,
+    "game_jump_is_open_ios": false,
+    "game_main": "主界面设置",
+    "game_main_tg_bar": false,
+    "game_main_tg_dialog": false,
+    "game_main_tg_left": false,
+    "game_main_tg_right": false,
+    "game_play_tg_bar": false,
+    "game_play_tg_left": false,
+    "game_play_tg_right": false,
+    "game_result_tg": false,
+    "gamebox_is_open": "内嵌盒子开关",
+    "gamebox_is_open_def": false,
+    "gamebox_is_open_ios": false
+}
